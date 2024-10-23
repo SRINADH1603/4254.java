@@ -1,0 +1,8 @@
+class A
+{
+  public static vouid main(String args[])
+  {
+    System.ou.println("hloooooo");
+  }
+
+}
